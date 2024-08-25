@@ -43,7 +43,7 @@ const Contact = () => {
               <Link
                 href="mailto:thebytesbuilder@gmail.com?subject=Lets%20work%20together!"
                 target="_blank"
-                aria-label="Send me an email"
+                aria-label="Email: thebytesbuilder@gmail.com"
                 className="bor der mt-1 w-[147px] flex-1 underline underline-offset-2 hover:no-underline sm:mt-2 sm:w-[170px] md:mt-3 lg:mt-4"
               >
                 <AnimatedBody
